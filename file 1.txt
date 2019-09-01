@@ -1,1 +1,2 @@
 file 1 line master
+2 lin in B2
